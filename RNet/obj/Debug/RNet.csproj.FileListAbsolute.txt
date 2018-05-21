@@ -1,0 +1,14 @@
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\RNet.exe.config
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\RNet.exe
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\RNet.pdb
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\DynamicInterop.dll
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\RDotNet.dll
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\RDotNet.NativeLibrary.dll
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\DynamicInterop.xml
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\RDotNet.xml
+G:\csharpcode\GIT\R\RNet\RNet\bin\Debug\RDotNet.NativeLibrary.xml
+G:\csharpcode\GIT\R\RNet\RNet\obj\Debug\RNet.csprojAssemblyReference.cache
+G:\csharpcode\GIT\R\RNet\RNet\obj\Debug\RNet.csproj.CoreCompileInputs.cache
+G:\csharpcode\GIT\R\RNet\RNet\obj\Debug\RNet.csproj.CopyComplete
+G:\csharpcode\GIT\R\RNet\RNet\obj\Debug\RNet.exe
+G:\csharpcode\GIT\R\RNet\RNet\obj\Debug\RNet.pdb
